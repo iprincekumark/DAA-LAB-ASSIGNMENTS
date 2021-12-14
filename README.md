@@ -29,4 +29,17 @@
 |7|[Dijkstra Algorithm](https://github.com/iprincekumark/DAA-LAB-ASSIGNMENTS/blob/main/WEEK%207/Dijsktra.cpp)|[C++](https://github.com/iprincekumark/DAA-LAB-ASSIGNMENTS/blob/main/WEEK%207/Dijsktra.cpp)|
 ||[Bellman Ford Algorithm](https://github.com/iprincekumark/DAA-LAB-ASSIGNMENTS/blob/main/WEEK%207/BellmanFord.cpp)|[C++](https://github.com/iprincekumark/DAA-LAB-ASSIGNMENTS/blob/main/WEEK%207/BellmanFord.cpp)|
 ||||
+|8|[Prims Algorithm](https://github.com/iprincekumark/DAA-LAB-ASSIGNMENTS/blob/main/WEEK%208/Prims.cpp)|[C++](https://github.com/iprincekumark/DAA-LAB-ASSIGNMENTS/blob/main/WEEK%208/Prims.cpp)|
+||[Krushkals Algorithm](https://github.com/iprincekumark/DAA-LAB-ASSIGNMENTS/blob/main/WEEK%208/Kruskals.cpp)|[C++](https://github.com/iprincekumark/DAA-LAB-ASSIGNMENTS/blob/main/WEEK%208/Kruskals.cpp)|
+||[Maximum Spanning Tree](https://github.com/iprincekumark/DAA-LAB-ASSIGNMENTS/blob/main/WEEK%208/MaxSpanningWeight.cpp)|[C++](https://github.com/iprincekumark/DAA-LAB-ASSIGNMENTS/blob/main/WEEK%208/MaxSpanningWeight.cpp)|
+|9|[Floyd Warshall Algorithm](https://github.com/iprincekumark/DAA-LAB-ASSIGNMENTS/blob/main/WEEK%209/FloydWarshall.cpp)|[C++](https://github.com/iprincekumark/DAA-LAB-ASSIGNMENTS/blob/main/WEEK%209/FloydWarshall.cpp)|
+||[Fractional Knapsack](https://github.com/iprincekumark/DAA-LAB-ASSIGNMENTS/blob/main/WEEK%209/FractionalKnapsack.cpp)|[C++](https://github.com/iprincekumark/DAA-LAB-ASSIGNMENTS/blob/main/WEEK%209/FractionalKnapsack.cpp)|
+||[Merge Files](https://github.com/iprincekumark/DAA-LAB-ASSIGNMENTS/blob/main/WEEK%209/MergeFiles.cpp)|[C++](https://github.com/iprincekumark/DAA-LAB-ASSIGNMENTS/blob/main/WEEK%209/MergeFiles.cpp)|
+|10|[Max Activities](https://github.com/iprincekumark/DAA-LAB-ASSIGNMENTS/blob/main/WEEK%2010/MaxActivities.cpp)|[C++](https://github.com/iprincekumark/DAA-LAB-ASSIGNMENTS/blob/main/WEEK%2010/MaxActivities.cpp)|
+||[Max Tasks](https://github.com/iprincekumark/DAA-LAB-ASSIGNMENTS/blob/main/WEEK%2010/MaxTasks.cpp)|[C++](https://github.com/iprincekumark/DAA-LAB-ASSIGNMENTS/blob/main/WEEK%2010/MaxTasks.cpp)|
+||[Majority Element](https://github.com/iprincekumark/DAA-LAB-ASSIGNMENTS/blob/main/WEEK%2010/MajorityElement.cpp)|[C++](https://github.com/iprincekumark/DAA-LAB-ASSIGNMENTS/blob/main/WEEK%2010/MajorityElement.cpp)|
+|11|[Matrix Multiplication](https://github.com/iprincekumark/DAA-LAB-ASSIGNMENTS/blob/main/WEEK%2011/MatrixMultiplication.cpp)|[C++](https://github.com/iprincekumark/DAA-LAB-ASSIGNMENTS/blob/main/WEEK%2011/MatrixMultiplication.cpp)|
+||[Coin](https://github.com/iprincekumark/DAA-LAB-ASSIGNMENTS/blob/main/WEEK%2011/Coin.cpp)|[C++](https://github.com/iprincekumark/DAA-LAB-ASSIGNMENTS/blob/main/WEEK%2011/Coin.cpp)|
+||[Equal Sum Subset](https://github.com/iprincekumark/DAA-LAB-ASSIGNMENTS/blob/main/WEEK%2011/EqualSumSubset.cpp)|[C++](https://github.com/iprincekumark/DAA-LAB-ASSIGNMENTS/blob/main/WEEK%2011/EqualSumSubset.cpp)|
+||||
 
